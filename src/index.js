@@ -9,7 +9,7 @@ import { MoralisProvider } from "react-moralis";
 
 ReactDOM.render(
   <React.StrictMode>
-    <MoralisProvider appId="" serverUrl="">
+    <MoralisProvider appId="kQhO6IaP9tvZSTZaLDDIDHZzccoGsLGmQrp8Df7k" serverUrl="https://nmvr5amkurpw.usemoralis.com:2053/server">
           <App />
     </MoralisProvider>
   </React.StrictMode>,
